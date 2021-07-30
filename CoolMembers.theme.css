@@ -74,3 +74,6 @@ margin-bottom: 6px;
 .layout-2DM8Md .avatar-3uk_u9, .layout-2DM8Md .content-3QAtGj {
     margin-left: -5px;
 }
+.members-1998pB [class*="empty"], .members-1998pB h3 {
+    opacity: 0;
+}
